@@ -25,4 +25,4 @@ proxy-groups:
       - DIRECT
 # 规则
 rules:
-  - DOMAIN-SUFFIX,www.52tomato.com,DIRECT
+  - DOMAIN-KEYWORD,52tomato,DIRECT
