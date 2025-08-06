@@ -25,6 +25,7 @@ proxy-groups:
       - DIRECT
 # 规则
 rules:
+  - DOMAIN-SUFFIX,www.52tomato.com,DIRECT
   - DOMAIN-SUFFIX,autonavi.com,DIRECT
   - DOMAIN-SUFFIX,accounts.youtube.com,DIRECT
   - DOMAIN-SUFFIX,www.bing.com,DIRECT
