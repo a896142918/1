@@ -7,7 +7,7 @@ proxies:
   type: socks5
   server: us.ipdodo.cloud
   port: 10800
-  username: yds_default_448-dh-2-region-us-session-89374355-30
+  username: yds_default_448-dh-2-region-us-session-89374395-30
   password: 655FA9B1551AF0EA
   skip-cert-verify: true
 - name: turboNode
