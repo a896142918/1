@@ -15,7 +15,7 @@ proxies:
     type: socks5
     server: 45fc8d994ebba90e.fkz.as.ipidea.online
     port: 2333
-    username: NF888666-zone-custom-region-sg
+    username: NF888666-zone-custom-region-sg123
     password: NF888666
 proxy-groups:
   - name: output
