@@ -13,10 +13,10 @@ proxies:
 
   - name: 动态住宅
     type: socks5
-    server: 45fc8d994ebba90e.fkz.as.ipidea.online
-    port: 2333
-    username: NF888666-zone-custom-region-sg
-    password: NF888666
+    server: us.ipdodo.cloud
+    port: 10800
+    username: yds_default_448-dh-2-region-us-session-85822457-30
+    password: 655FA9B1551AF0EA
 proxy-groups:
   - name: output
     type: select
