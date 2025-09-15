@@ -13,10 +13,10 @@ proxies:
 
   - name: 动态住宅
     type: socks5
-    server: us.ipdodo.cloud
-    port: 10800
-    username: yds_default_448-dh-2-region-us-session-85822457-30
-    password: 655FA9B1551AF0EA
+    server: 45fc8d994ebba90e.fkz.as.ipidea.online
+    port: 2333
+    username: NF888666-zone-custom-region-nz
+    password: NF888666
 proxy-groups:
   - name: output
     type: select
@@ -59,7 +59,6 @@ rules:
   - DOMAIN-SUFFIX,jichengfz.top,DIRECT
   - IP-CIDR,106.13.113.119/32,DIRECT
   - DOMAIN-KEYWORD,52tomato,DIRECT
-  - DOMAIN,play-lh.googleusercontent.com,DIRECT
   - DOMAIN-KEYWORD,vmoscloud,DIRECT
   - DOMAIN-KEYWORD,armcloud,DIRECT
   #js 静态文件
@@ -75,18 +74,4 @@ rules:
   - DOMAIN,beacons5.gvt3.com,DIRECT
   - DOMAIN,middledata.ldmnq.com,DIRECT
   - DOMAIN-KEYWORD,fonts,DIRECT
-
-  #猜测为谷歌搜索页面
-  - DOMAIN,images-na.ssl-images-amazon.com,DIRECT
-  - DOMAIN,en.m.wikipedia.org,DIRECT
-  - DOMAIN,ir.ebaystatic.com,DIRECT
-  - DOMAIN,www.instagram.com,DIRECT
-  - DOMAIN,a.espncdn.com,DIRECT
-  - DOMAIN,cdn.detik.net.id,DIRECT
-  - DOMAIN,abs-0.twimg.com,DIRECT
-  - DOMAIN,styleguide.brainly.co.id,DIRECT
-  - DOMAIN,assets.cpcdn.com,DIRECT
-  - DOMAIN,am.olx.biz.id,DIRECT
-  - DOMAIN,yt3.ggpht.com,DIRECT
-
   - MATCH,动态住宅
