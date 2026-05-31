@@ -13,10 +13,10 @@ proxies:
 
   - name: 动态住宅
     type: socks5
-    server: us.ipdodo.cloud
-    port: 10800
-    username: yds_default_448-dh-2-region-us-session-85822457-30
-    password: 655FA9B1551AF0EA
+    server: us2.cliproxy.io
+    port: 3010
+    username: keqe82407-region-HK-sid-CmTHJZVk-t-120
+    password: 4zczvcsg
 proxy-groups:
   - name: output
     type: select
